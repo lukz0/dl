@@ -1,0 +1,17 @@
+{
+    "_comment": [
+        "The value of the length attribute is [outputLen, layerAmount, neuronAmountLayer1, neuronAmountLayer2, neuronAmountLayer3...]",
+        "The axons amount for each neuron must correspond to the amount of neurons in the next layer, or the output in the case of the last layer"
+    ],
+    "Length": [
+        4,
+        2,
+        2,
+        2
+    ],
+    "Axons": [
+        [[1, 1], [1, 1]],
+        [[1, 1, 1, 1], [1, 1, 1, 1]],
+        [[1, 1], [1, 1], [1, 1], [1, 1]]
+    ]
+}

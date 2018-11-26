@@ -1,0 +1,14 @@
+﻿[][][][][]
+nmi = 3
+actual = 3
+nml = 5--
+
+[][][][x][]
+nmi = 0
+actual = 0
+nml = 4--
+
+[x][][][x][]
+nml = 3--
+nmi = 1
+actual = 2
